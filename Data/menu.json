@@ -1,47 +1,45 @@
 {
-	"menuTitle":"Murts Food",
-	"menuDescription":" ",
-	"menuItems": [
-		{
-		"title": "Buttermilk southern fried chicken burger - €12",
-		"description": "Roast garlic mayo, iceberg lettuce, cheddar, pickle, crisp onion,spiced onion jam, brioche bun, ruby coleslaw and herb garlic roasties/fries."
+	"menuTitle": "Murts Food",
+	"menuDescription": " ",
+	"menuItems": [{
+			"title": "Buttermilk southern fried chicken burger - €12",
+			"description": "Roast garlic mayo, iceberg lettuce, cheddar, pickle, crisp onion,spiced onion jam, brioche bun, ruby coleslaw and herb garlic roasties/fries."
 		},
 		{
-		"title": "Pulled Oat and Bean Burger - €12",
-		"description": "Pickled Slaw, vegan siraccha mayo, pickle, spiced onion jam, bun, coleslaw, herbgarlic roasties/fries  "
+			"title": "Pulled Oat and Bean Burger - €12",
+			"description": "Pickled Slaw, vegan siraccha mayo, pickle, spiced onion jam, bun, coleslaw, herbgarlic roasties/fries  "
 		},
 		{
-		"title": "Craft Butcher Chorizo Dog - €8",
-		"description": "Saute onion, wild garlic pesto, feta, brioche bun"
+			"title": "Craft Butcher Chorizo Dog - €8",
+			"description": "Saute onion, wild garlic pesto, feta, brioche bun"
 		},
 		{
-		"title": "Rock n sole fries (shoestring or sweet potato) - €12	",
-		"description": "Calamari, tartare, crisp onion, dill, lemon...pickled slaw"
+			"title": "Rock n sole fries (shoestring or sweet potato) - €12",
+			"description": "Calamari, tartare, crisp onion, dill, lemon...pickled slaw"
 		},
 		{
-		"title": "Fries/ sweet potato fries - €2",
-		"description": " "
+			"title": "Fries/ sweet potato fries - €2",
+			"description": " "
 		},
 		{
-		"title": "snoop your fries - €4",
-		"description": ["Roast Garlic mayo and cheese", "Truffle and Parmasaen", "Crispy Bacon & Mozzerella", "Siraccha vegan mayo, crispy onion"]
+			"title": "snoop your fries - €4",
+			"description": ["Roast Garlic mayo and cheese", "Truffle and Parmasaen", "Crispy Bacon & Mozzerella", "Siraccha vegan mayo, crispy onion"]
 		},
 		{
-		"title": "Murts Munchie Monthly- €10",
-		"description": "Wicklow red ale braised BBQ beef brisket, pickled slaw, cheddar, Cajun BBQ mayo, Pickle, crispy onion, iceberg, brioche"
+			"title": "Murts Munchie Monthly- €10",
+			"description": "Wicklow red ale braised BBQ beef brisket, pickled slaw, cheddar, Cajun BBQ mayo, Pickle, crispy onion, iceberg, brioche"
 		},
 		{
-		"title": "Seasonal Soup/Bread - €5",
-		"description":" "
+			"title": "Seasonal Soup/Bread - €5",
+			"description": " "
+		}, {
+			"title": "Encore - €4 (each)",
+			"description": ["Dark Chocolate Mousse Pot, Chocolate Soil", "Tray Bake of the Day"]
+		},
+		{
+			"title": "Tea/Coffee/Soft Drinks",
+			"description": ""
 		}
-		{
-		"title": "Encore - €4 (each)",
-		"description": ["Dark Chocolate Mousse Pot, Chocolate Soil", "Tray Bake of the Day"]
-		},
-		{
-		"title": "Tea/Coffee/Soft Drinks",
-		"description": ""
-		},
-		
+
 	]
 }
