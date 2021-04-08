@@ -1,7 +1,5 @@
 {
-  menuItems:[
-    {
-    name:"burger"
-    }
-  ]
+	"menuItems": [{
+		"name": "burger"
+	}]
 }
