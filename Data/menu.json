@@ -1,1 +1,7 @@
-menuItems:[]
+{
+  menuItems:[
+    {
+    name:"burger"
+    }
+  ]
+}
