@@ -3,6 +3,38 @@
 	"menuDescription": " ",
 	"menuItems": [
 		{
+			"title": "Breakfast Menu",
+			"description": " "
+		},
+		{
+			"title": "Bakery €3.00",
+			"description": ["Freshly baked scone of the day, cream, butter, jam (supplied by Joanne’s Tasty Bakes)", "Gluten free treats", "Croissant with jam and butter"]
+		},
+		{
+			"title": "Tray Bake Of The Day €3.00/2 for €5.00 (Supplied by Joanne’s Tasty Bakes)",
+			"description": ["Lemon blueberry muffin", "Rocky road", "Mars bar square", "Carrot Cake"]
+		},
+		{
+			"title": "Waterford Bla Breakfast Bap €5.00",
+			"description": "Healy's back bacon, sausage, black & white pudding and Ballymaloe relish"
+		},
+		{
+			"title": "Oats-asis €3.00",
+			"description": "Chia, maple, vanilla and poached fruits, overnight oats with granola topping"
+		},
+		{
+			"title": "Buttermilk Pancakes (3) €7.00",
+			"description": ["Bacon, mascarpone, maple", "Summer berry, mascarpone, maple", "Nutella, banana, cinnamon"]
+		},
+		{
+			"title": "Cupcakes €2.50 each",
+			"description": ["‘99 with vanilla frosting", "Kinder Bueno"]
+		},
+		{
+			"title": "All Drinks €2",
+			"description": " "
+		},
+		{
 			"title": "Lunch Menu",
 			"description": " "
 		},
